@@ -1,7 +1,7 @@
- ## Natallia Murashkevich
+## Natallia Murashkevich
 
 ### *Contacts:*
-  * + 375 25 689 36 33
+  * +375 25 689 36 33
   * TashaMozhaueva@gmail.com  
 
 ### *Summary:* 
