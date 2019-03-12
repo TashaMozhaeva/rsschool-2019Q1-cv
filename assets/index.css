@@ -1,0 +1,99 @@
+body
+{
+  max-width: 1024px;
+	margin: 0 auto;
+	
+  background: #f4f4f4;
+}
+.header
+{
+  width: 950px;
+  height: 200px;
+  margin: 20px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+  text-align: center;
+
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: .5px .5px 10px black;
+}
+.header h1
+{
+  font-size: 36px;
+  font-weight: 400;
+
+  margin-bottom: -5px;
+}
+.header h3
+{
+  font-size: 20px;
+  font-weight: 400;
+
+  margin-bottom: -5px;
+}
+.main
+{
+  width: 950px;
+  height: auto;
+  margin: 32px auto;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: .5px .5px 10px black;
+}
+.main h2
+{
+  font-size: 32px;
+  font-weight: 400;
+}
+.main h3
+{
+  font-size: 20px;
+  font-weight: 400;
+}
+.main .hobby
+{
+  margin-left: 35px;
+}
+.main .headline
+{
+  margin-left: 35px;
+
+  text-align: center;
+}
+.main .headline2
+{
+  margin-left: 35px;
+}
+.main ul
+{
+  margin-bottom: 8px;
+  margin-left: 35px;
+}
+.footer
+{
+  width: 950px;
+  height: 65px;
+	margin: 0 auto 12px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+  text-align: center;
+
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: .5px .5px 10px black;
+}
+p
+{
+  text-align: center;
+}
+.footer .name
+{
+  font-weight: bold;
+}
