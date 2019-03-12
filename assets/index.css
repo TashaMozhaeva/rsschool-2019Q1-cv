@@ -7,11 +7,9 @@ body
 }
 .header
 {
-  display: block;
-
   width: 950px;
   height: 200px;
-  margin-top: 20px;
+  margin: 20px auto;
 	padding-top: 20px;
 	padding-bottom: 20px;
 
@@ -37,8 +35,6 @@ body
 }
 .main
 {
-  display: block;
-
   width: 950px;
   height: auto;
   margin: 32px auto;
