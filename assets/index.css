@@ -1,8 +1,8 @@
 body
 {
-  width: 1024px;
-  margin: 0 auto;
-
+  max-width: 1024px;
+	margin: 0 auto;
+	
   background: #f4f4f4;
 }
 .header
@@ -11,7 +11,9 @@ body
 
   width: 950px;
   height: 200px;
-  margin: -10px auto;
+  margin-top: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
   text-align: center;
 
@@ -40,7 +42,9 @@ body
   width: 950px;
   height: auto;
   margin: 32px auto;
-  padding-bottom: 5px;
+	padding-bottom: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
   border-radius: 5px;
   background: #fff;
@@ -77,11 +81,11 @@ body
 }
 .footer
 {
-  display: block;
-
   width: 950px;
   height: 65px;
-  margin: 0 auto 12px auto;
+	margin: 0 auto 12px auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
   text-align: center;
 
